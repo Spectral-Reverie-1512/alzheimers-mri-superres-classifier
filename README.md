@@ -45,14 +45,22 @@ This project implements a Generative Adversarial Network (GAN) for super-resolut
 
 ## Setup
 1. Prerequisites
-  Python 3.8+
-  PyTorch
-  torchvision
-  albumentations
-  gradio
-  tqdm
-  pillow
-  matplotlib
+
+   Python 3.8+
+
+   PyTorch
+
+   torchvision
+
+   albumentations
+
+   gradio
+
+   tqdm
+
+   pillow
+
+   matplotlib
 
 ## Results
 1. GAN:
