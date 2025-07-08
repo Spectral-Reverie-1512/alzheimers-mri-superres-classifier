@@ -11,16 +11,6 @@ This project implements a Generative Adversarial Network (GAN) for super-resolut
 
 ├── Inference-UI.py                 # Gradio UI for testing SR & classification pipeline
 
-├── Data_Balanced/                   # Original balanced dataset (zipped)
-
-├── Data_Noisy/                      # Generated noisy dataset (zipped)
-
-├── Data_SR/                         # Super-resolved images used for classifier training
-
-├── dementia_classifier_best.pt      # Trained Classifier Model
-
-├── generator_superres_denoise_final.pt # Trained Generator Model
-
 └── Test Image/                      # Sample MRI image for testing
 
 ## Features
